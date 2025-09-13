@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file for conflict on remote....
+=======
+file for conf on local
+>>>>>>> 3d35efd (demo local)
